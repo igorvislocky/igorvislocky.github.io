@@ -5,7 +5,7 @@ Jack - personal portfolio
 Jack.
 
 En
-Ar
+Sk
 
 aria-label = Change Theme
 title = Change Theme
@@ -46,19 +46,19 @@ Scroll
 
 alt = Badge icon
 
-12+
+7+
 Years of Experience
 
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
 alt = Checkmark icon
 
-230+
+x
 Completed Projects
 
 alt = Peoples rating icon
 
-95+
+y
 Happy Clients
 
 
